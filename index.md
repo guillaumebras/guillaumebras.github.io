@@ -14,8 +14,8 @@ Nous avons choisi pour l’instant nous intéresser à :
 
 * l’installation de maraîchers bio sur la commune qui  alimenteraient la cuisine municipale et des lieux de distribution (paniers, marchés, épicerie collaborative, ...)
  
-Pour que de tels projets aboutissent, des spécialistes affirment
-qu’il faut un mouvement citoyen moteur, relayé par une institution
+> Pour que de tels projets aboutissent, des spécialistes affirment
+> qu’il faut un mouvement citoyen moteur, relayé par une institution
 (mairie ou communauté de communes par exemple) pour que,
 finalement, des professionnels travaillent sur le terrain. 
  
@@ -78,4 +78,4 @@ A bientôt !
 Pour toutes remarques,
 communications ou demande de renseignements complémentaires,
 merci de répondre à l’adresse suivante :
- info@duchampalassiette-voironnais.fr
+ <info@duchampalassiette-voironnais.fr>
